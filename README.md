@@ -1,4 +1,4 @@
-This is the an project in Udacity's data science nanodegree class. I cleaned the OpenStreetMap data for Shanghai. 
+This is an project in Udacity's data science nanodegree class. I cleaned the OpenStreetMap data for Shanghai. 
 
 # 1 Introduction
 I chose Shanghai as my studying case, simply because right now I live here. The map data of Shanghai was obtained from Mapzen, https://mapzen.com/data/metro-extracts/metro/shanghai_china/. It’s named “shanghai_china.osm”, with a size of more than 850M(of course it's not shown in this repositories). However, all operations on the full data take less than 2 minutes and < 200M memory in my laptop, so 
